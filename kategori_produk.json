@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "nama": "Makanan & Minuman",
+    "deskripsi": "Produk kuliner lokal seperti makanan tradisional, camilan, dan minuman khas daerah."
+  },
+  {
+    "id": 2,
+    "nama": "Kerajinan Tangan",
+    "deskripsi": "Produk hasil kreativitas seperti anyaman, batik, ukiran kayu, dan aksesori handmade."
+  },
+  {
+    "id": 3,
+    "nama": "Fashion & Aksesoris",
+    "deskripsi": "Produk pakaian, sepatu, tas, dan aksesoris berbahan lokal dengan desain unik."
+  },
+  {
+    "id": 4,
+    "nama": "Produk Kecantikan & Kesehatan",
+    "deskripsi": "Produk herbal, perawatan kulit alami, dan olahan kesehatan tradisional."
+  },
+  {
+    "id": 5,
+    "nama": "Pertanian & Olahan",
+    "deskripsi": "Hasil pertanian, perkebunan, dan produk olahan seperti kopi, madu, dan rempah-rempah."
+  }
+]

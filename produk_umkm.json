@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "nama": "Keripik Singkong Balado",
+    "harga": 20000,
+    "stok": 17,
+    "kategori_id": 1,
+    "deskripsi": "Keripik Singkong Balado buatan lokal dengan kualitas terbaik.",
+    "lokasi": "Padang, Sumatera Barat",
+    "foto": "https://via.placeholder.com/300x200.png?text=Keripik+Singkong+Balado"
+  },
+  {
+    "id": 2,
+    "nama": "Kopi Arabika Gayo 250gr",
+    "harga": 25000,
+    "stok": 24,
+    "kategori_id": 1,
+    "deskripsi": "Kopi Arabika Gayo 250gr buatan lokal dengan kualitas terbaik.",
+    "lokasi": "Padang, Sumatera Barat",
+    "foto": "https://via.placeholder.com/300x200.png?text=Kopi+Arabika+Gayo+250gr"
+  },
+  {
+    "id": 3,
+    "nama": "Kerupuk Ikan Tenggiri",
+    "harga": 30000,
+    "stok": 31,
+    "kategori_id": 1,
+    "deskripsi": "Kerupuk Ikan Tenggiri buatan lokal dengan kualitas terbaik.",
+    "lokasi": "Padang, Sumatera Barat",
+    "foto": "https://via.placeholder.com/300x200.png?text=Kerupuk+Ikan+Tenggiri"
+  },
+  {
+    "id": 4,
+    "nama": "Sambal Cumi Asin",
+    "harga": 35000,
+    "stok": 38,
+    "kategori_id": 1,
+    "deskripsi": "Sambal Cumi Asin buatan lokal dengan kualitas terbaik.",
+    "lokasi": "Padang, Sumatera Barat",
+    "foto": "https://via.placeholder.com/300x200.png?text=Sambal+Cumi+Asin"
+  },
+  {
+    "id": 5,
+    "nama": "Brownies Kukus Coklat",
+    "harga": 40000,
+    "stok": 45,
+    "kategori_id": 1,
+    "deskripsi": "Brownies Kukus Coklat buatan lokal dengan kualitas terbaik.",
+    "lokasi": "Padang, Sumatera Barat",
+    "foto": "https://via.placeholder.com/300x200.png?text=Brownies+Kukus+Coklat"
+  },
+  {
+    "id": 6,
+    "nama": "Dodol Garut",
+    "harga": 45000,
+    "stok": 52,
+    "kategori_id": 1,
+    "deskripsi": "Dodol Garut buatan lokal dengan kualitas terbaik.",
+    "lokasi": "Padang, Sumatera Barat",
+    "foto": "https://via.placeholder.com/300x200.png?text=Dodol+Garut"
+  },
+  {
+    "id": 7,
+    "nama": "Rendang Sapi",
+    "harga": 50000,
+    "stok": 59,
+    "kategori_id": 1,
+    "deskripsi": "Rendang Sapi buatan lokal dengan kualitas terbaik.",
+    "lokasi": "Padang, Sumatera Barat",
+    "foto": "https://via.placeholder.com/300x200.png?text=Rendang+Sapi"
+  },
+  {
+    "id": 8,
+    "nama": "Teh Bunga Telang",
+    "harga": 55000,
+    "stok": 66,
+    "kategori_id": 1,
+    "deskripsi": "Teh Bunga Telang buatan lokal dengan kualitas terbaik.",
+    "lokasi": "Padang, Sumatera Barat",
+    "foto": "https://via.placeholder.com/300x200.png?text=Teh+Bunga+Telang"
+  },
+  {
+    "id": 9,
+    "nama": "Susu Kedelai Organik",
+    "harga": 60000,
+    "stok": 73,
+    "kategori_id": 1,
+    "deskripsi": "Susu Kedelai Organik buatan lokal dengan kualitas terbaik.",
+    "lokasi": "Padang, Sumatera Barat",
+    "foto": "https://via.placeholder.com/300x200.png?text=Susu+Kedelai+Organik"
+  },
+  {
+    "id": 10,
+    "nama": "Keripik Pisang Manis",
+    "harga": 65000,
+    "stok": 80,
+    "kategori_id": 1,
+    "deskripsi": "Keripik Pisang Manis buatan lokal dengan kualitas terbaik.",
+    "lokasi": "Padang, Sumatera Barat",
+    "foto": "https://via.placeholder.com/300x200.png?text=Keripik+Pisang+Manis"
+  },
+  {
+    "id": 11,
+    "nama": "Tas Anyaman Pandan",
+    "harga": 70000,
+    "stok": 87,
+    "kategori_id": 2,
+    "deskripsi": "Tas Anyaman Pandan buatan lokal dengan kualitas terbaik.",
+    "lokasi": "Jepara, Jawa Tengah",
+    "foto": "https://via.placeholder.com/300x200.png?text=Tas+Anyaman+Pandan"
+  },
+  {
+    "id": 12,
+    "nama": "Kalung Manik-Manik Dayak",
+    "harga": 75000,
+    "stok": 94,
+    "kategori_id": 2,
+    "deskripsi": "Kalung Manik-Manik Dayak buatan lokal dengan kualitas terbaik.",
+    "lokasi": "Jepara, Jawa Tengah",
+    "foto": "https://via.placeholder.com/300x200.png?text=Kalung+Manik-Manik+Dayak"
+  },
+  {
+    "id": 13,
+    "nama": "Gantungan Kunci Kayu",
+    "harga": 80000,
+    "stok": 101,
+    "kategori_id": 2,
+    "deskripsi": "Gantungan Kunci Kayu buatan lokal dengan kualitas terbaik.",
+    "lokasi": "Jepara, Jawa Tengah",
+    "foto": "https://via.placeholder.com/300x200.png?text=Gantungan+Kunci+Kayu"
+  },
+  {
+    "id": 14,
+    "nama": "Miniatur Perahu Pinisi",
+    "harga": 85000,
+    "stok": 108,
+    "kategori_id": 2,
+    "deskripsi": "Miniatur Perahu Pinisi buatan lokal dengan kualitas terbaik.",
+    "lokasi": "Jepara, Jawa Tengah",
+    "foto": "https://via.placeholder.com/300x200.png?text=Miniatur+Perahu+Pinisi"
+  },
+  {
+    "id": 15,
+    "nama": "Dompet Tenun Ikat",
+    "harga": 90000,
+    "stok": 115,
+    "kategori_id": 2,
+    "deskripsi": "Dompet Tenun Ikat buatan lokal dengan kualitas terbaik.",
+    "lokasi": "Jepara, Jawa Tengah",
+    "foto": "https://via.placeholder.com/300x200.png?text=Dompet+Tenun+Ikat"
+  },
+  {
+    "id": 16,
+    "nama": "Lukisan Batik Tulis",
+    "harga": 95000,
+    "stok": 122,
+    "kategori_id": 2,
+    "deskripsi": "Lukisan Batik Tulis buatan lokal dengan kualitas terbaik.",
+    "lokasi": "Jepara, Jawa Tengah",
+    "foto": "https://via.placeholder.com/300x200.png?text=Lukisan+Batik+Tulis"
+  },
+  {
+    "id": 17,
+    "nama": "Topeng Kayu Wayang",
+    "harga": 100000,
+    "stok": 129,
+    "kategori_id": 2,
+    "deskripsi": "Topeng Kayu Wayang buatan lokal dengan kualitas terbaik.",
+    "lokasi": "Jepara, Jawa Tengah",
+    "foto": "https://via.placeholder.com/300x200.png?text=Topeng+Kayu+Wayang"
+  },
+  {
+    "id": 18,
+    "nama": "Keranjang Rotan Serbaguna",
+    "harga": 105000,
+    "stok": 136,
+    "kategori_id": 2,
+    "deskripsi": "Keranjang Rotan Serbaguna buatan lokal dengan kualitas terbaik.",
+    "lokasi": "Jepara, Jawa Tengah",
+    "foto": "https://via.placeholder.com/300x200.png?text=Keranjang+Rotan+Serbaguna"
+  },
+  {
+    "id": 19,
+    "nama": "Cermin Hias Mozaik",
+    "harga": 110000,
+    "stok": 143,
+    "kategori_id": 2,
+    "deskripsi": "Cermin Hias Mozaik buatan lokal dengan kualitas terbaik.",
+    "lokasi": "Jepara, Jawa Tengah",
+    "foto": "https://via.placeholder.com/300x200.png?text=Cermin+Hias+Mozaik"
+  },
+  {
+    "id": 20,
+    "nama": "Aksesoris Kulit Handmade",
+    "harga": 115000,
+    "stok": 150,
+    "kategori_id": 2,
+    "deskripsi": "Aksesoris Kulit Handmade buatan lokal dengan kualitas terbaik.",
+    "lokasi": "Jepara, Jawa Tengah",
+    "foto": "https://via.placeholder.com/300x200.png?text=Aksesoris+Kulit+Handmade"
+  },
+  {
+    "id": 21,
+    "nama": "Batik Tulis Motif Parang",
+    "harga": 120000,
+    "stok": 157,
+    "kategori_id": 3,
+    "deskripsi": "Batik Tulis Motif Parang buatan lokal dengan kualitas terbaik.",
+    "lokasi": "Solo, Jawa Tengah",
+    "foto": "https://via.placeholder.com/300x200.png?text=Batik+Tulis+Motif+Parang"
+  },
+  {
+    "id": 22,
+    "nama": "Sepatu Kulit Handmade",
+    "harga": 125000,
+    "stok": 164,
+    "kategori_id": 3,
+    "deskripsi": "Sepatu Kulit Handmade buatan lokal dengan kualitas terbaik.",
+    "lokasi": "Solo, Jawa Tengah",
+    "foto": "https://via.placeholder.com/300x200.png?text=Sepatu+Kulit+Handmade"
+  },
+  {
+    "id": 23,
+    "nama": "Tas Rajut Modern",
+    "harga": 130000,
+    "stok": 171,
+    "kategori_id": 3,
+    "deskripsi": "Tas Rajut Modern buatan lokal dengan kualitas terbaik.",
+    "lokasi": "Solo, Jawa Tengah",
+    "foto": "https://via.placeholder.com/300x200.png?text=Tas+Rajut+Modern"
+  },
+  {
+    "id": 24,
+    "nama": "Kaos Sablon Etnik",
+    "harga": 135000,
+    "stok": 178,
+    "kategori_id": 3,
+    "deskripsi": "Kaos Sablon Etnik buatan lokal dengan kualitas terbaik.",
+    "lokasi": "Solo, Jawa Tengah",
+    "foto": "https://via.placeholder.com/300x200.png?text=Kaos+Sablon+Etnik"
+  },
+  {
+    "id": 25,
+    "nama": "Jaket Denim Bordir",
+    "harga": 140000,
+    "stok": 185,
+    "kategori_id": 3,
+    "deskripsi": "Jaket Denim Bordir buatan lokal dengan kualitas terbaik.",
+    "lokasi": "Solo, Jawa Tengah",
+    "foto": "https://via.placeholder.com/300x200.png?text=Jaket+Denim+Bordir"
+  },
+  {
+    "id": 26,
+    "nama": "Syal Tenun Songket",
+    "harga": 145000,
+    "stok": 192,
+    "kategori_id": 3,
+    "deskripsi": "Syal Tenun Songket buatan lokal dengan kualitas terbaik.",
+    "lokasi": "Solo, Jawa Tengah",
+    "foto": "https://via.placeholder.com/300x200.png?text=Syal+Tenun+Songket"
+  },
+  {
+    "id": 27,
+    "nama": "Blus Batik Kontemporer",
+    "harga": 150000,
+    "stok": 199,
+    "kategori_id": 3,
+    "deskripsi": "Blus Batik Kontemporer buatan lokal dengan kualitas terbaik.",
+    "lokasi": "Solo, Jawa Tengah",
+    "foto": "https://via.placeholder.com/300x200.png?text=Blus+Batik+Kontemporer"
+  },
+  {
+    "id": 28,
+    "nama": "Topi Anyaman Lontar",
+    "harga": 155000,
+    "stok": 206,
+    "kategori_id": 3,
+    "deskripsi": "Topi Anyaman Lontar buatan lokal dengan kualitas terbaik.",
+    "lokasi": "Solo, Jawa Tengah",
+    "foto": "https://via.placeholder.com/300x200.png?text=Topi+Anyaman+Lontar"
+  },
+  {
+    "id": 29,
+    "nama": "Ikat Pinggang Kulit Asli",
+    "harga": 160000,
+    "stok": 13,
+    "kategori_id": 3,
+    "deskripsi": "Ikat Pinggang Kulit Asli buatan lokal dengan kualitas terbaik.",
+    "lokasi": "Solo, Jawa Tengah",
+    "foto": "https://via.placeholder.com/300x200.png?text=Ikat+Pinggang+Kulit+Asli"
+  },
+  {
+    "id": 30,
+    "nama": "Celana Kain Linen",
+    "harga": 165000,
+    "stok": 20,
+    "kategori_id": 3,
+    "deskripsi": "Celana Kain Linen buatan lokal dengan kualitas terbaik.",
+    "lokasi": "Solo, Jawa Tengah",
+    "foto": "https://via.placeholder.com/300x200.png?text=Celana+Kain+Linen"
+  },
+  {
+    "id": 31,
+    "nama": "Sabun Herbal Lidah Buaya",
+    "harga": 170000,
+    "stok": 27,
+    "kategori_id": 4,
+    "deskripsi": "Sabun Herbal Lidah Buaya buatan lokal dengan kualitas terbaik.",
+    "lokasi": "Bandung, Jawa Barat",
+    "foto": "https://via.placeholder.com/300x200.png?text=Sabun+Herbal+Lidah+Buaya"
+  },
+  {
+    "id": 32,
+    "nama": "Minyak Lulur Rempah",
+    "harga": 175000,
+    "stok": 34,
+    "kategori_id": 4,
+    "deskripsi": "Minyak Lulur Rempah buatan lokal dengan kualitas terbaik.",
+    "lokasi": "Bandung, Jawa Barat",
+    "foto": "https://via.placeholder.com/300x200.png?text=Minyak+Lulur+Rempah"
+  },
+  {
+    "id": 33,
+    "nama": "Masker Wajah Bengkoang",
+    "harga": 180000,
+    "stok": 41,
+    "kategori_id": 4,
+    "deskripsi": "Masker Wajah Bengkoang buatan lokal dengan kualitas terbaik.",
+    "lokasi": "Bandung, Jawa Barat",
+    "foto": "https://via.placeholder.com/300x200.png?text=Masker+Wajah+Bengkoang"
+  },
+  {
+    "id": 34,
+    "nama": "Lotion Kulit Kelapa",
+    "harga": 185000,
+    "stok": 48,
+    "kategori_id": 4,
+    "deskripsi": "Lotion Kulit Kelapa buatan lokal dengan kualitas terbaik.",
+    "lokasi": "Bandung, Jawa Barat",
+    "foto": "https://via.placeholder.com/300x200.png?text=Lotion+Kulit+Kelapa"
+  },
+  {
+    "id": 35,
+    "nama": "Minyak Zaitun Alami",
+    "harga": 190000,
+    "stok": 55,
+    "kategori_id": 4,
+    "deskripsi": "Minyak Zaitun Alami buatan lokal dengan kualitas terbaik.",
+    "lokasi": "Bandung, Jawa Barat",
+    "foto": "https://via.placeholder.com/300x200.png?text=Minyak+Zaitun+Alami"
+  },
+  {
+    "id": 36,
+    "nama": "Scrub Kopi Organik",
+    "harga": 195000,
+    "stok": 62,
+    "kategori_id": 4,
+    "deskripsi": "Scrub Kopi Organik buatan lokal dengan kualitas terbaik.",
+    "lokasi": "Bandung, Jawa Barat",
+    "foto": "https://via.placeholder.com/300x200.png?text=Scrub+Kopi+Organik"
+  },
+  {
+    "id": 37,
+    "nama": "Lip Balm Madu",
+    "harga": 200000,
+    "stok": 69,
+    "kategori_id": 4,
+    "deskripsi": "Lip Balm Madu buatan lokal dengan kualitas terbaik.",
+    "lokasi": "Bandung, Jawa Barat",
+    "foto": "https://via.placeholder.com/300x200.png?text=Lip+Balm+Madu"
+  },
+  {
+    "id": 38,
+    "nama": "Shampo Daun Waru",
+    "harga": 205000,
+    "stok": 76,
+    "kategori_id": 4,
+    "deskripsi": "Shampo Daun Waru buatan lokal dengan kualitas terbaik.",
+    "lokasi": "Bandung, Jawa Barat",
+    "foto": "https://via.placeholder.com/300x200.png?text=Shampo+Daun+Waru"
+  },
+  {
+    "id": 39,
+    "nama": "Essential Oil Serai",
+    "harga": 210000,
+    "stok": 83,
+    "kategori_id": 4,
+    "deskripsi": "Essential Oil Serai buatan lokal dengan kualitas terbaik.",
+    "lokasi": "Bandung, Jawa Barat",
+    "foto": "https://via.placeholder.com/300x200.png?text=Essential+Oil+Serai"
+  },
+  {
+    "id": 40,
+    "nama": "Face Mist Mawar",
+    "harga": 215000,
+    "stok": 90,
+    "kategori_id": 4,
+    "deskripsi": "Face Mist Mawar buatan lokal dengan kualitas terbaik.",
+    "lokasi": "Bandung, Jawa Barat",
+    "foto": "https://via.placeholder.com/300x200.png?text=Face+Mist+Mawar"
+  },
+  {
+    "id": 41,
+    "nama": "Madu Hutan Murni 500ml",
+    "harga": 220000,
+    "stok": 97,
+    "kategori_id": 5,
+    "deskripsi": "Madu Hutan Murni 500ml buatan lokal dengan kualitas terbaik.",
+    "lokasi": "Ciwidey, Jawa Barat",
+    "foto": "https://via.placeholder.com/300x200.png?text=Madu+Hutan+Murni+500ml"
+  },
+  {
+    "id": 42,
+    "nama": "Teh Hijau Organik 100gr",
+    "harga": 225000,
+    "stok": 104,
+    "kategori_id": 5,
+    "deskripsi": "Teh Hijau Organik 100gr buatan lokal dengan kualitas terbaik.",
+    "lokasi": "Ciwidey, Jawa Barat",
+    "foto": "https://via.placeholder.com/300x200.png?text=Teh+Hijau+Organik+100gr"
+  },
+  {
+    "id": 43,
+    "nama": "Beras Merah Organik 5kg",
+    "harga": 230000,
+    "stok": 111,
+    "kategori_id": 5,
+    "deskripsi": "Beras Merah Organik 5kg buatan lokal dengan kualitas terbaik.",
+    "lokasi": "Ciwidey, Jawa Barat",
+    "foto": "https://via.placeholder.com/300x200.png?text=Beras+Merah+Organik+5kg"
+  },
+  {
+    "id": 44,
+    "nama": "Rempah Bubuk Lengkuas",
+    "harga": 235000,
+    "stok": 118,
+    "kategori_id": 5,
+    "deskripsi": "Rempah Bubuk Lengkuas buatan lokal dengan kualitas terbaik.",
+    "lokasi": "Ciwidey, Jawa Barat",
+    "foto": "https://via.placeholder.com/300x200.png?text=Rempah+Bubuk+Lengkuas"
+  },
+  {
+    "id": 45,
+    "nama": "Jahe Merah Instan",
+    "harga": 240000,
+    "stok": 125,
+    "kategori_id": 5,
+    "deskripsi": "Jahe Merah Instan buatan lokal dengan kualitas terbaik.",
+    "lokasi": "Ciwidey, Jawa Barat",
+    "foto": "https://via.placeholder.com/300x200.png?text=Jahe+Merah+Instan"
+  },
+  {
+    "id": 46,
+    "nama": "Kopi Robusta Lampung",
+    "harga": 245000,
+    "stok": 132,
+    "kategori_id": 5,
+    "deskripsi": "Kopi Robusta Lampung buatan lokal dengan kualitas terbaik.",
+    "lokasi": "Ciwidey, Jawa Barat",
+    "foto": "https://via.placeholder.com/300x200.png?text=Kopi+Robusta+Lampung"
+  },
+  {
+    "id": 47,
+    "nama": "Minyak Kelapa Murni",
+    "harga": 250000,
+    "stok": 139,
+    "kategori_id": 5,
+    "deskripsi": "Minyak Kelapa Murni buatan lokal dengan kualitas terbaik.",
+    "lokasi": "Ciwidey, Jawa Barat",
+    "foto": "https://via.placeholder.com/300x200.png?text=Minyak+Kelapa+Murni"
+  },
+  {
+    "id": 48,
+    "nama": "Cabe Bubuk Kering",
+    "harga": 255000,
+    "stok": 146,
+    "kategori_id": 5,
+    "deskripsi": "Cabe Bubuk Kering buatan lokal dengan kualitas terbaik.",
+    "lokasi": "Ciwidey, Jawa Barat",
+    "foto": "https://via.placeholder.com/300x200.png?text=Cabe+Bubuk+Kering"
+  },
+  {
+    "id": 49,
+    "nama": "Kacang Mete Panggang",
+    "harga": 260000,
+    "stok": 153,
+    "kategori_id": 5,
+    "deskripsi": "Kacang Mete Panggang buatan lokal dengan kualitas terbaik.",
+    "lokasi": "Ciwidey, Jawa Barat",
+    "foto": "https://via.placeholder.com/300x200.png?text=Kacang+Mete+Panggang"
+  },
+  {
+    "id": 50,
+    "nama": "Gula Aren Kristal",
+    "harga": 265000,
+    "stok": 160,
+    "kategori_id": 5,
+    "deskripsi": "Gula Aren Kristal buatan lokal dengan kualitas terbaik.",
+    "lokasi": "Ciwidey, Jawa Barat",
+    "foto": "https://via.placeholder.com/300x200.png?text=Gula+Aren+Kristal"
+  }
+]
